@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Development files
+*.ipynb
+*.hdf5
+Plots/*
+data/Cat-Dog-resize/*
+data/Cat-Dog-Chunked/*
+data/Cat-Dog-Test/*
+data/MNIST-Test/*
+*.out
+*.gz
+*.aux

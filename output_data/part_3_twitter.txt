@@ -1,0 +1,55 @@
+=======================================================
+twitter
+Epoch 0, Loss 1.091, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 1, Loss 1.026, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 2, Loss 1.003, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 3, Loss 0.996, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 4, Loss 0.994, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 5, Loss 0.991, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 6, Loss 0.990, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 7, Loss 0.989, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 8, Loss 0.990, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 9, Loss 0.991, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 10, Loss 0.989, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 11, Loss 0.989, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 12, Loss 0.988, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 13, Loss 0.989, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 14, Loss 0.990, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 15, Loss 0.988, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 16, Loss 0.989, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 17, Loss 0.987, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 18, Loss 0.989, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 19, Loss 0.990, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 20, Loss 0.988, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 21, Loss 0.988, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 22, Loss 0.987, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 23, Loss 0.988, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 24, Loss 0.989, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 25, Loss 0.987, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 26, Loss 0.987, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 27, Loss 0.986, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 28, Loss 0.988, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 29, Loss 0.989, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 30, Loss 0.987, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 31, Loss 0.987, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 32, Loss 0.986, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 33, Loss 0.987, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 34, Loss 0.988, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 35, Loss 0.986, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 36, Loss 0.986, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 37, Loss 0.985, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 38, Loss 0.987, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 39, Loss 0.988, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 40, Loss 0.985, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 41, Loss 0.986, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 42, Loss 0.985, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 43, Loss 0.986, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 44, Loss 0.987, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 45, Loss 0.985, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+Epoch 46, Loss 0.985, Train Accuracy 0.530, Validation Accuracy 0.523, Train F1-Macro 0.231, Validation F1-Macro 0.229, Train F1-Micro 0.530, Validation F1-Micro 0.229
+Epoch 47, Loss 0.984, Train Accuracy 0.517, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.517, Validation F1-Micro 0.229
+Epoch 48, Loss 0.985, Train Accuracy 0.518, Validation Accuracy 0.523, Train F1-Macro 0.227, Validation F1-Macro 0.229, Train F1-Micro 0.518, Validation F1-Micro 0.229
+Epoch 49, Loss 0.986, Train Accuracy 0.501, Validation Accuracy 0.523, Train F1-Macro 0.223, Validation F1-Macro 0.229, Train F1-Micro 0.501, Validation F1-Micro 0.229
+Epoch 50, Loss 0.984, Train Accuracy 0.514, Validation Accuracy 0.523, Train F1-Macro 0.226, Validation F1-Macro 0.229, Train F1-Micro 0.514, Validation F1-Micro 0.229
+
+
